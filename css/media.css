@@ -1,0 +1,92 @@
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (max-width: 575.98px) { 
+
+/* header  */
+section.nav-saction {
+    width: 156%;
+}
+.eid {
+ 
+    margin-top: -39%;
+    margin-left: 52%;
+}
+
+img.img-fluid {
+    height: 230px;
+    width: 263px;
+    margin-left: 0%;
+    filter: opacity(0.5);
+    position: absolute;
+}
+
+section h1 {
+    
+        font-family: 'Reggae One', cursive;
+        color: #6d4e20;
+        font-size: 65px;
+        font-weight: 800;
+        text-shadow: 7px 5px 5px #f5ddb9;
+        position: absolute;
+}
+
+}
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+    section.nav-saction {
+        width: 156%;
+    }
+    .eid {
+ 
+        margin-top: -40%;
+        margin-left: 48%;
+    }
+
+    img.img-fluid {
+        height: 230px;
+        width: 263px;
+        margin-left: 0%;
+        filter: opacity(0.5);
+        position: absolute;
+    }
+
+    section h1 {
+        font-family: 'Reggae One', cursive;
+        color: #6d4e20;
+        font-size: 65px;
+        font-weight: 800;
+        text-shadow: 7px 5px 5px #f5ddb9;
+        position: absolute;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+   
+    section.nav-saction {
+        width: 156%;
+    }
+    .eid {
+ 
+        margin-top: -40%;
+        margin-left: 48%;
+    }
+
+	}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+   
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	
+  
+
+
+}
